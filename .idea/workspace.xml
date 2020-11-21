@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dfadc2d-9ab8-4cf2-bce8-ab0c4e8dcead" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/TFLiteImageClassifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="709">
+              <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/AutoFitTextureView.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/env/Logger.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/env/ImageUtils.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/env/BorderedText.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/env/AssetUtils.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/env/Size.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/env/SplitTimer.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/tracking/MultiBoxTracker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/tracking/ObjectTracker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2805" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>convolution</find>
+      <find>conv</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/OverlayView.java" />
+        <option value="$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/TFLiteObjectDetectionAPIModel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1240" />
+    <option name="height" value="705" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="allanbayntun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="allanbayntun" type="462c0819:PsiDirectoryNode" />
+              <item name="bayntunglare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="allanbayntun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="allanbayntun" type="462c0819:PsiDirectoryNode" />
+              <item name="bayntunglare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="allanbayntun" type="462c0819:PsiDirectoryNode" />
+              <item name="bayntunglare" type="462c0819:PsiDirectoryNode" />
+              <item name="env" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="allanbayntun" type="462c0819:PsiDirectoryNode" />
+              <item name="bayntunglare" type="462c0819:PsiDirectoryNode" />
+              <item name="tracking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="allanbayntun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="allanbayntun" type="462c0819:PsiDirectoryNode" />
+              <item name="bayntunglare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BayntunGlare-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="BayntunGlare-master" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dfadc2d-9ab8-4cf2-bce8-ab0c4e8dcead" name="Default Changelist" comment="" />
+      <created>1598833630192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598833630192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.329294" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/LegacyCameraConnectionFragment.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/assets/detect.tflite">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/CameraConnectionFragment.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/ConnectDialogFragment.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/OverlayView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/CameraActivity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/Classifier.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/ConnectTask.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="154" column="28" lean-forward="true" selection-start-line="154" selection-start-column="28" selection-end-line="154" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/test/java/com/allanbayntun/bayntunglare/ExampleUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/androidTest/java/com/allanbayntun/bayntunglare/ExampleInstrumentedTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/TFLiteObjectDetectionAPIModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/TFLiteImageClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/AutoFitTextureView.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/env/Logger.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/env/ImageUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/env/BorderedText.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/env/AssetUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/env/Size.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/env/SplitTimer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/tracking/MultiBoxTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BayntunGlare-master/app/src/main/java/com/allanbayntun/bayntunglare/tracking/ObjectTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2805" />
+      </provider>
+    </entry>
+  </component>
+</project>

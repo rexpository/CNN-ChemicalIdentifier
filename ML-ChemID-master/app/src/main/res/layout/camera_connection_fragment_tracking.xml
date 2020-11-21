@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light">
+
+    <com.allanbayntun.bayntunglare.AutoFitTextureView
+        android:id="@+id/texture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.allanbayntun.bayntunglare.OverlayView
+        android:id="@+id/tracking_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.allanbayntun.bayntunglare.OverlayView
+        android:id="@+id/debug_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|end"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/ip_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:ems="10"
+            android:gravity="right|end"
+            android:hint="Address"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/connect_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical|end"
+            android:onClick="connect"
+            android:text="connect" />
+
+    </LinearLayout>
+
+</FrameLayout>
