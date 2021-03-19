@@ -50,7 +50,7 @@ https://drive.google.com/drive/folders/1uErozhmhQF2PweaXTbQIF0g8-ar8KDiY?usp=sha
 Figure 5: Appearance of an image of Sodium Chloride used in the training Dataset
 
 The code used in this experiment can be found in the GitHub repository linked below:
-https://github.com/Rexypad/ML_Chemical_ID
+https://github.com/Rexypad/Machine-Learning_Chemical_Identification_RIC
 
 
 **Results & Discussion**
